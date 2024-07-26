@@ -1,9 +1,4 @@
 # Abnormal-Activity-Detection
-Here's a short README file for the provided script:
-
----
-
-# Object Tracking and Activity Classification
 
 ## Overview
 
@@ -132,6 +127,4 @@ This script performs object tracking using YOLOv8 and DeepSORT, followed by acti
 - Ensure to adjust file paths and parameters according to your specific data and environment.
 - GPU acceleration is recommended for faster processing.
 
----
 
-Feel free to adjust any sections to better fit your specific requirements!
