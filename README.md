@@ -120,11 +120,10 @@ This script performs object tracking using YOLOv8 and DeepSORT, followed by acti
 ## Results
 
 - **LSTM Classifier**: Outputs loss, accuracy, precision, recall, and F1 score.
+Confusion Matrix:
+<img width="521" alt="Screenshot 2024-07-25 at 23 39 31" src="https://github.com/user-attachments/assets/25c07388-bf11-4417-93ad-ab0a78f76d6d">
+
+
 - **Time Series Classifier**: Outputs accuracy, precision, recall, and F1 score, and generates plots for metrics and confusion matrix.
-
-## Notes
-
-- Ensure to adjust file paths and parameters according to your specific data and environment.
-- GPU acceleration is recommended for faster processing.
 
 
