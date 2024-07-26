@@ -139,7 +139,7 @@ Confusion Matrix:
 
 <img width="324" alt="Screenshot 2024-07-25 at 23 40 02" src="https://github.com/user-attachments/assets/278e2d26-900c-479e-9b66-736bc43da679">
 
-Outputs loss, accuracy, precision, recall, and F1 score: 
+Accuracy, precision, recall, and F1 score: 
 
 <img width="174" alt="Screenshot 2024-07-25 at 23 41 15" src="https://github.com/user-attachments/assets/6632f7dd-c598-4f5a-b017-6bf3ba68e730">
 
