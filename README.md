@@ -122,17 +122,21 @@ This script performs object tracking using YOLOv8 and DeepSORT, followed by acti
 - **LSTM Classifier**: 
 
 Confusion Matrix:
+
 <img width="521" alt="Screenshot 2024-07-25 at 23 39 31" src="https://github.com/user-attachments/assets/25c07388-bf11-4417-93ad-ab0a78f76d6d">
 
 Outputs loss, accuracy, precision, recall, and F1 score: 
+
 <img width="748" alt="Screenshot 2024-07-25 at 23 40 56" src="https://github.com/user-attachments/assets/5a4fa161-2f9c-44e5-8b53-74e5f36faa05">
 
 Visualization of LSTM Classifier metrics
+
 <img width="669" alt="Screenshot 2024-07-25 at 23 39 45" src="https://github.com/user-attachments/assets/b7643c62-b879-4560-8cc2-5bd678f24e76">
 
 - **Time Series Classifier**: 
 
 Confusion Matrix:
+
 <img width="324" alt="Screenshot 2024-07-25 at 23 40 02" src="https://github.com/user-attachments/assets/278e2d26-900c-479e-9b66-736bc43da679">
 
 Outputs loss, accuracy, precision, recall, and F1 score: 
@@ -140,4 +144,5 @@ Outputs loss, accuracy, precision, recall, and F1 score:
 <img width="174" alt="Screenshot 2024-07-25 at 23 41 15" src="https://github.com/user-attachments/assets/6632f7dd-c598-4f5a-b017-6bf3ba68e730">
 
 Visualization of TSAI classifier metrics
+
 <img width="1070" alt="Screenshot 2024-07-25 at 23 40 30" src="https://github.com/user-attachments/assets/101a8c91-8111-4ff7-8b9d-741f20fc3f6b">
